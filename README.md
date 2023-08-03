@@ -13,7 +13,8 @@ All vanilla tech tree nodes have been retained, though several have been moved i
 This mod is balanced to be roughly as challenging as the vanilla game, so your preferred difficulty settings should still apply.  
 
 Incompatabilies (Subject to Change, see Planned Features below)  
-This mod is currently incompatable with any mod that changes the tech tree structure in any way, or that modifies any of the same Part config files that this mod edits.  
+This mod is currently incompatable with any mod that changes the tech tree structure in any way, or that modifies any of the same Part config files that this mod edits.
+It is also incompatable with any mod that changes the dictionary.cfg file in any way, though this should be resolved at some point.
 It should be fully compatable with any mod that adds new parts to any of the vanilla tech tree nodes, though said nodes may be present at different locations in the tech       tree due to progression changes made by this mod.  
 
 Installation  
@@ -40,6 +41,7 @@ The "Landing" branch has been shifted up a tier, mostly to open up more internal
 The LT-05 Micro Landing Struts have been moved up into "Space Exploration" and unlock at the same time as the basic Rovemax rover wheels and the Rovemate probe core.  
 
 Planned Features  
+Resolve the dependency on the dictionary config file to increase compatability with other mods.
 Once the basic structure of the tech tree is finalized, this mod will be split into two (and possibly three) mods.  
 All three submods will have the same functionality.  
 The first submod will be installed identically to the current version, via directly overwriting files in the GameData folder. This is intended to be the simplest and easiest way to get started, but is the most difficult to uninstall and would have a high risk of mod incompatability issues.  
