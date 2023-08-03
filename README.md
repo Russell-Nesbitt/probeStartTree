@@ -24,7 +24,7 @@ Overwrite all files when prompted.
 Major Changes (Not Exhaustive or Finalized)  
 Begins with the Stayputnik and the Thermometer unlocked, plus the Communotron 16-S and Z-100 Battery Pack for data transmission.  
 Better probe cores are unlocked by progressing along the "Stability"->"Flight Control" branch, which continues into the "Unmanned Tech" branch (moved appropriately).  
-Advanced Communication Antennas have been shifted down a tier into the "Electrics" Branch.  
+The higher-tier communication antennas have been shifted down a tier into the "Electrics" Branch.  
   The "Automation" Node is empty and has been retained for compatability with mods that may add tech to that node.  
 Manned Pods are not unlocked until tier 4, with the "Basic Command Pod" node.  
   Manned pod progression begins with the KV-1 Pea, and splits into the "Heavy" line, which continues with the KV-series, and the "Advanced" line, which contains the rest.  
