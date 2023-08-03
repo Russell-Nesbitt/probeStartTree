@@ -29,7 +29,7 @@ The higher-tier communication antennas have been shifted down a tier into the "E
 Manned Pods are not unlocked until tier 4, with the "Basic Command Pod" node.  
   Manned pod progression begins with the KV-1, and splits into the "Heavy" line, which continues with the KV-series, and the "Advanced" line, which contains the rest.  
   Note that the KV-pods unlock a tier before their Advanced equivalent in terms of crew capacity, but come with no proper parachutes.  
-  The two branches converge to unlock the MK1-3 and the larger Lander Command Pods. Therefore, the player can decide which branch they wish to follow.  
+  The two branches converge to unlock the MK1-3 and the more advanced lander command pods. Therefore, the player can decide which branch they wish to follow.  
   It is intended that Kerbals EVA out of the KV-series pods in the lower atmosphere (like in the real-world early Vostok missions) and land using their personal parachutes. 
   In Career Mode, this requires upgrading the Astronaut complex, so keep this in mind.    
 Drogue Parachutes are unlocked through the "Survivability" and "Landing" nodes, with proper parachutes unlocked only through the manned Command Pods branch.  
