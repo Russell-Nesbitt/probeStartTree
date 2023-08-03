@@ -15,8 +15,8 @@ It should be fully compatable with any mod that adds new parts to any of the van
 
 Installation  
 All DLC is required for this mod to function.  
-Download the "probeStart" folder for this mod.  
-Drag and drop the "GameData" folder into ./steam/steamapps/common/Kerbal Space Program.  
+Download the "probeStart" folder from this page.  
+Drag and drop the "GameData" folder contained within into .../steam/steamapps/common/Kerbal Space Program  
 Merge all folders when prompted.  
   If a "Could not find this item" error occurs for the "SharedAssets" folder, click "Skip".  
 Overwrite all files when prompted.  
