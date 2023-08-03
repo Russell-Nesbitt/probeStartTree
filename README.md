@@ -10,12 +10,12 @@ All vanilla tech tree nodes have been retained, though several have been moved i
 
 This mod is intended to be roughly as challenging as the vanilla game, so your preferred difficulty settings should still apply.  
 
-Incompatabilies (Subject to Change, see Planned Features below)  
+ ### Incompatabilies (Subject to Change, see Planned Features below) ###
 This mod is currently incompatable with any mod that changes the tech tree structure in any way, or that modifies any of the same Part config files that this mod edits.  
 It is also incompatable with any mod that changes the dictionary.cfg file in any way, though this should be resolved at some point.  
 It should be fully compatable with any mod that adds new parts to any of the vanilla tech tree nodes, though said nodes may be present at different locations in the tech       tree due to progression changes made by this mod.  
 
-Installation  
+ ### Installation ###
 All DLC is required for this mod to function.  
 Download the "probeStartTree" folder from this page.  
 Drag and drop the "GameData" folder contained within into .../steam/steamapps/common/Kerbal Space Program  
@@ -23,7 +23,7 @@ Merge all folders when prompted.
   If a "Could not find this item" error occurs for the "SharedAssets" folder, click "Skip".  
 Overwrite all files when prompted.  
 
-Major Changes (Not Exhaustive or Finalized)  
+ ### Major Changes (Not Exhaustive or Finalized) ###
 Begins with the Stayputnik and the Thermometer unlocked, plus the Communotron 16-S and Z-100 Battery Pack for data transmission.  
 Better probe cores are unlocked by progressing along the "Stability"->"Flight Control" branch, which continues into the "Unmanned Tech" branch (moved appropriately).  
 The higher-tier communication antennas have been shifted down a tier into the "Electrics" Branch.  
@@ -38,12 +38,12 @@ Drogue Parachutes are unlocked through the "Survivability" and "Landing" nodes, 
 The "Landing" branch has been shifted up a tier, mostly to open up more internal space in the tech tree.  
 The LT-05 Micro Landing Struts have been moved up into "Space Exploration" and unlock at the same time as the basic Rovemax rover wheels and the Rovemate probe core.  
 
-Planned Features  
+ ### Planned Features ###
 Resolve the dependency on the dictionary config file to increase compatability with other mods.  
 Add custom thumbnails for all new tech tree nodes.  
 Finalize the basic structure of the tech tree, and adjust part purchase costs if required for balance.  
 
-Long Term Plans  
+ ### Long Term Plans  ###
 Once the basic structure of the tech tree is finalized, this mod will be split into two (and possibly three) mods.  
 All three submods will have the same functionality.  
 The first submod will be installed identically to the current version, via directly overwriting files in the GameData folder. This is intended to be the simplest and easiest way to get started, but is the most difficult to uninstall and would have a high risk of mod incompatability issues.  
