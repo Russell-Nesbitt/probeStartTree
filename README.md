@@ -10,7 +10,7 @@ All vanilla tech tree nodes have been retained, though several have been moved i
 This mod is balanced to be roughly as challenging as the vanilla game, so your preferred difficulty settings should still apply.  
 
 Incompatabilies (Subject to Change, see Planned Features below)  
-This mod is currently incompatable with any mod that changes the tech tree in any way, or that modifies any of the same Part config files that this mod edits.  
+This mod is currently incompatable with any mod that changes the tech tree structure in any way, or that modifies any of the same Part config files that this mod edits.  
 It should be fully compatable with any mod that adds new parts to any of the vanilla tech tree nodes, though said nodes may be present at different locations in the tech       tree due to progression changes made by this mod.  
 
 Installation  
