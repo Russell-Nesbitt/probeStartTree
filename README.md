@@ -14,7 +14,7 @@ This mod is intended to be roughly as challenging as the vanilla game, so your p
 
 Incompatabilies (Subject to Change, see Planned Features below)  
 This mod is currently incompatable with any mod that changes the tech tree structure in any way, or that modifies any of the same Part config files that this mod edits.
-It is also incompatable with any mod that changes the dictionary.cfg file in any way, though this should be resolved at some point.
+It is also incompatable with any mod that changes the dictionary.cfg file in any way, though this should be resolved at some point.  
 It should be fully compatable with any mod that adds new parts to any of the vanilla tech tree nodes, though said nodes may be present at different locations in the tech       tree due to progression changes made by this mod.  
 
 Installation  
