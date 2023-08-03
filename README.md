@@ -23,14 +23,15 @@ Overwrite all files when prompted.
 
 Major Changes (Not Exhaustive or Finalized)  
 Begins with the Stayputnik and the Thermometer unlocked, plus the Communotron 16-S and Z-100 Battery Pack for data transmission.  
-Better probe cores are unlocked by progressing along the "Stability" branch, which continues into the "Unmanned Tech" branch (moved appropriately).  
+Better probe cores are unlocked by progressing along the "Stability"->"Flight Control" branch, which continues into the "Unmanned Tech" branch (moved appropriately).  
 Advanced Communication Antennas have been shifted down a tier into the "Electrics" Branch.  
   The "Automation" Node is empty and has been retained for compatability with mods that may add tech to that node.  
 Manned Pods are not unlocked until tier 4, with the "Basic Command Pod" node.  
   Manned pod progression begins with the KV-1 Pea, and splits into the "Heavy" line, which continues with the KV-series, and the "Advanced" line, which contains the rest.  
   Note that the KV-pods unlock a tier before their Advanced equivalent in terms of crew capacity, but come with no proper parachutes.  
   The two branches converge to unlock the MK1-3 and the larger Lander Command Pods. Therefore, the player can decide which branch they wish to follow.  
-  It is intended that Kerbals bail out of at least the KV-1 pod and land using their personal parachutes. This requires upgrading the Astronaut complex, so keep this in mind.  
+  It is intended that Kerbals EVA out of the KV-series pods in the lower atmosphere (like in the real-world early Vostok missions) and land using their personal parachutes. 
+  In Career Mode, this requires upgrading the Astronaut complex, so keep this in mind.    
 Drogue Parachutes are unlocked through the "Survivability" and "Landing" nodes, with proper parachutes unlocked only through the manned Command Pods branch.  
 The "Landing" branch has been shifted up a tier, mostly to open up more internal space in the tech tree.  
 The LT-05 Micro Landing Struts have been moved up into "Space Exploration" and unlock at the same time as the basic Rovemax rover wheels and the Rovemate probe core.  
