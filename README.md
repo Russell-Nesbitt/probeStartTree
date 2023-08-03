@@ -6,9 +6,7 @@ An unmanned start tech tree mod, inspired by theonegalen's "Unkerballed Start" a
 This mod was made out of a desire to provide an unmanned start that changed as little as possible in the rest of the tech tree.  
 For example, instead of starting with the .625m engines, as in "Unkerballed Start", this tree begins with the standard 1.5m engines, providing structural adapters as needed.  
 
-Several new nodes for manned command pods have been introduced, split into two lines - one for the KV-series, and one for the standard capsules.  
-
-All vanilla tech tree nodes have been retained, though several have been moved into more appropriate places.  
+All vanilla tech tree nodes have been retained, though several have been moved into more appropriate places in the tree.  
 
 This mod is intended to be roughly as challenging as the vanilla game, so your preferred difficulty settings should still apply.  
 
