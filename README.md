@@ -1,2 +1,52 @@
-# probeStartTree
-KSP Tech Tree Mod
+# Vanilla-Like Probe Start Tech Tree Mod
+An unmanned start tech tree mod, inspired by theonegalen's "Unkerballed Start" and Yemo's "Unmanned Before Manned" trees.  
+
+This mod was made out of a desire to provide an unmanned start that changed as little as possible in the rest of the tech tree.  
+For example, instead of starting with the .625m solid boosters, this tree begins with the standard 1.5m engines, and provides structural adapters as needed.  
+
+Several new nodes for manned command pods have been introduced, split into two lines - one for the KV-series, and one for the standard capsules.  
+All vanilla tech tree nodes have been retained, though several have been moved into more appropriate places.  
+
+This mod is balanced to be roughly as challenging as the vanilla game, so your preferred difficulty settings should still apply.  
+
+Incompatabilies (Subject to Change, see Planned Features below)  
+This mod is currently incompatable with any mod that changes the tech tree in any way, or that modifies any of the same Part config files that this mod edits.  
+It should be fully compatable with any mod that adds new parts to any of the vanilla tech tree nodes, though said nodes may be present at different locations in the tech       tree due to progression changes made by this mod.  
+
+Installation
+All DLC is required for this mod to function.  
+Download the "GameData" folder for this mod.  
+Drag and drop into ./steam/steamapps/common/Kerbal Space Program.  
+Merge all folders when prompted.  
+  If a "Could not find this item" error occurs for the "SharedAssets" folder, click "Skip".  
+Overwrite all files when prompted.  
+
+Major Changes (Not Exhaustive or Finalized)  
+Begins with the Stayputnik and the Thermometer unlocked, plus the Communotron 16-S and Z-100 Battery Pack for data transmission.  
+Better probe cores are unlocked by progressing along the "Stability" branch, which continues into the "Unmanned Tech" branch (moved appropriately).  
+Advanced Communication Antennas have been shifted down a tier into the "Electrics" Branch.  
+  The "Automation" Node is empty and has been retained for compatability with mods that may add tech to that node.  
+Manned Pods are not unlocked until tier 4, with the "Basic Command Pod" node.  
+  Manned pod progression begins with the KV-1 Pea, and splits into the "Heavy" line, which continues with the KV-series, and the "Advanced" line, which contains the rest.  
+  Note that the KV-pods unlock a tier before their Advanced equivalent in terms of crew capacity, but come with no proper parachutes.  
+  The two branches converge to unlock the MK1-3 and the larger Lander Command Pods. Therefore, the player can decide which branch they wish to follow.  
+  It is intended that Kerbals bail out of at least the KV-1 pod and land on their personal parachutes. This requires upgrading the Astronaut complex, so keep this in mind.  
+Drogue Parachutes are unlocked through the "Survivability" and "Landing" nodes, with proper parachutes unlocked only through the manned Command Pods branch.  
+The "Landing" branch has been shifted up a tier, mostly to open up more internal space in the tech tree.  
+The LT-05 Micro Landing Struts have been moved up into "Space Exploration" and unlock at the same time as the basic Rovemax rover wheels and the Rovemate probe core.  
+
+Planned Features  
+Once the basic structure of the tech tree is finalized, this mod will be split into two (and possibly three) mods.  
+All three submods will have the same functionality.  
+The first submod will be installed identically to the current version, via directly overwriting files in the GameData folder. This is intended to be the simplest and  
+easiest way to get started, but is the most difficult to uninstall and would have a high risk of mod incompatability issues.  
+The second submod will be integrated with Module Manager, for compatability with other mods that might make changes to existing parts or add new nodes to the tech tree.  
+The possible third mod will port this tech tree structure into a Community Tech Tree plugin, for maximum compatability with other mods editing the tech tree.  
+
+
+
+
+
+  
+
+
