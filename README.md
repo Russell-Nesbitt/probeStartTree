@@ -10,7 +10,7 @@ Several new nodes for manned command pods have been introduced, split into two l
 
 All vanilla tech tree nodes have been retained, though several have been moved into more appropriate places.  
 
-This mod is balanced to be roughly as challenging as the vanilla game, so your preferred difficulty settings should still apply.  
+This mod is intended to be roughly as challenging as the vanilla game, so your preferred difficulty settings should still apply.  
 
 Incompatabilies (Subject to Change, see Planned Features below)  
 This mod is currently incompatable with any mod that changes the tech tree structure in any way, or that modifies any of the same Part config files that this mod edits.
