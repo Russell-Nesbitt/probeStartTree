@@ -42,6 +42,7 @@ The LT-05 Micro Landing Struts have been moved up into "Space Exploration" and u
 
 Planned Features  
 Resolve the dependency on the dictionary config file to increase compatability with other mods.
+Add custom thumbnails for all newly added tech tree nodes.
 Once the basic structure of the tech tree is finalized, this mod will be split into two (and possibly three) mods.  
 All three submods will have the same functionality.  
 The first submod will be installed identically to the current version, via directly overwriting files in the GameData folder. This is intended to be the simplest and easiest way to get started, but is the most difficult to uninstall and would have a high risk of mod incompatability issues.  
