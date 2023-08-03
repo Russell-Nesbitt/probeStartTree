@@ -27,6 +27,7 @@ Overwrite all files when prompted.
 Begins with the Stayputnik and the Thermometer unlocked, plus the Communotron 16-S and Z-100 Battery Pack for data transmission.  
 
 Better probe cores are unlocked by progressing along the "Stability"->"Flight Control" branch, which continues into the "Unmanned Tech" branch (moved appropriately).  
+
 The higher-tier communication antennas have been shifted down a tier into the "Electrics" Branch.  
 
 The "Automation" Node is empty and has been retained for compatability with mods that may add tech to that node.  
