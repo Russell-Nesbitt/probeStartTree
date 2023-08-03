@@ -42,7 +42,7 @@ The LT-05 Micro Landing Struts have been moved up into "Space Exploration" and u
 
 Planned Features  
 Resolve the dependency on the dictionary config file to increase compatability with other mods.  
-Add custom thumbnails for all newly added tech tree nodes. 
+Add custom thumbnails for all newly added tech tree nodes.  
 Finalize the basic structure of the tech tree, and adjust part purchase costs if required for balance.  
 
 Long Term Plans  
