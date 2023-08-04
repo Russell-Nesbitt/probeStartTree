@@ -16,7 +16,9 @@ It should be fully compatible with any mod that adds new parts to any of the van
 
  ### Installation ###
 All DLC is required for this mod to function.  
-Download the "probeStartTree" folder from this page.  
+Click the green "<> Code" button and select "Download ZIP".  
+Extract the zipped file that results.  
+Go into the "probeStartTree-main" folder, and then into the "probeStartTree" folder.  
 Drag and drop the "GameData" folder contained within into .../steam/steamapps/common/Kerbal Space Program  
 Merge all folders when prompted.  
 Overwrite all files when prompted.  
