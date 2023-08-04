@@ -16,7 +16,7 @@ It is also incompatible with any mod that changes the dictionary.cfg file in any
 It should be fully compatible with any mod that adds new parts to any of the vanilla tech tree nodes, though said nodes may be present at different locations in the tech tree due to progression changes made by this mod. The hidden-in-vanilla "Nanolathing" and "Experimental Motors" nodes have been integrated into the tree for this reason, and are currently empty.    
 
  ### Installation ###
-All DLC is required for this mod to function.  
+All official DLC is required for this mod to function.  
 Click the green "<> Code" button and select "Download ZIP".  
 Extract the zipped file that results.     
 In a separate window, navigate to .../steam/steamapps/common/Kerbal Space Program  
