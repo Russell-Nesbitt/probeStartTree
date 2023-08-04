@@ -70,7 +70,7 @@ The first submod will be installed identically to the current version, via direc
 
 The second submod will be integrated with Module Manager, for compatibility with other mods that might make changes to existing parts or add new nodes to the tech tree.  
 
-The possible third mod will port this tech tree structure into a Community Tech Tree plugin, for maximum compatibility with other tech tree mods. However, the main goal of this mod is to provide an experience very similar to vanilla KSP, which may make a truly successful transition impossible.
+The possible third mod will port this tech tree structure into a Community Tech Tree plugin, for maximum compatibility with other tech tree mods. However, the main goal of this mod is to provide an experience very similar to vanilla KSP, which may make a truly successful transition impossible. Furthermore, theonegalen's "Unkerballed Start" mod already does an excellent job of this.
 
 
 
