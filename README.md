@@ -1,7 +1,7 @@
 # Vanilla-Like Probe Start Tech Tree Mod
 An unmanned start tech tree mod, inspired by theonegalen's "Unkerballed Start" and Yemo's "Unmanned Before Manned" trees. 
 
-![Tree](https://github.com/Russell-Nesbitt/probeStartTree/assets/96993918/0b78c037-eee6-479e-a26f-7b6329809bf9)
+![tree](https://github.com/Russell-Nesbitt/probeStartTree/assets/96993918/cb8bdc16-dd18-471b-8dee-27ca4d9995cd)
 
 This mod is intended to provide an unmanned start that would otherwise feel as familiar as possible to the vanilla experience.  
 
