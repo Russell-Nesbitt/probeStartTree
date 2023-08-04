@@ -3,11 +3,11 @@ An unmanned start tech tree mod, inspired by theonegalen's "Unkerballed Start" a
 
 ![Tree](https://github.com/Russell-Nesbitt/probeStartTree/assets/96993918/0b78c037-eee6-479e-a26f-7b6329809bf9)
 
-This mod is intented to provide an unmanned start that would otherwise feel as familiar as possible to the vanilla experience.  
+This mod is intended to provide an unmanned start that would otherwise feel as familiar as possible to the vanilla experience.  
 
 All vanilla tech tree nodes have been retained, though several have been moved into more appropriate places in the tree.  
 
-This mod is intended to be roughly as challenging as the vanilla game, so your preferred difficulty settings should still apply.  
+Progression should be roughly as challenging as the vanilla game, so your preferred difficulty settings should still apply.  
 
  ### Incompatabilies (Subject to Change, see Planned Features below) ###
 This mod is currently incompatable with any mod that changes the tech tree structure in any way, or that modifies any of the same Part config files that this mod edits.  
