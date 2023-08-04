@@ -17,9 +17,11 @@ It should be fully compatible with any mod that adds new parts to any of the van
  ### Installation ###
 All DLC is required for this mod to function.  
 Click the green "<> Code" button and select "Download ZIP".  
-Extract the zipped file that results.  
-Go into the "probeStartTree-main" folder, and then into the "probeStartTree" folder.  
-Drag and drop the "GameData" folder contained within into .../steam/steamapps/common/Kerbal Space Program  
+Extract the zipped file that results.     
+In a separate window, navigate to .../steam/steamapps/common/Kerbal Space Program  
+It is strongly recommended to make a backup copy of the "GameData" folder before you proceed.  
+In the unzipped download, navigate into the "probeStartTree-main" folder, and then into the "probeStartTree" folder.
+Drag the "GameData" folder found within into .../Kerbal Space Program in the other open window.  
 Merge all folders when prompted.  
 Overwrite all files when prompted.  
 Done!  
@@ -47,6 +49,10 @@ Drogue Parachutes are unlocked through the "Survivability" and "Landing" nodes, 
 The "Landing" branch has been shifted up a tier, mostly to open up more internal space in the tech tree.  
 
 The LT-05 Micro Landing Struts have been moved up into "Space Exploration" and unlock at the same time as the basic Rovemax rover wheels and the Rovemate probe core.  
+
+ ### Uninstallation ###
+ If you backed up your "GameData" folder, just delete the GameData folder currently in .../steam/steamapps/common/Kerbal Space Program, and replace it with the backed-up copy.  
+ If you did not back up your "GameData" folder, you'll have to reinstall all edited KSP files through Steam's "Verify Integrity of Game Files" option. NOTE THAT THIS WILL RESTORE EVERY EDITED KSP FILE TO ITS VANILLA STATE! BACK UP ANY OTHER INSTALLED KSP MODS FIRST!  
 
  ### Planned Features ###
 Resolve the dependency on the dictionary config file to increase compatibility with other mods.  
