@@ -75,7 +75,8 @@ The possible third mod will port this tech tree structure into a Community Tech 
 
 
 
-All Rights Reserved.
+License: https://creativecommons.org/licenses/by-nc/4.0/
+
 
 
 
