@@ -51,7 +51,7 @@ Drogue Parachutes are unlocked through the "Survivability" and "Landing" nodes, 
 
 The "Landing" branch has been shifted up a tier, mostly to open up more internal space in the tech tree.  
 
-The LT-05 Micro Landing Struts have been moved up into "Space Exploration" and unlock at the same time as the basic Rovemax rover wheels and the Rovemate probe core.  
+The LT-05 Micro Landing Struts have been moved up into "Space Exploration" and unlock alongside the basic Rovemax rover wheels and the Rovemate probe core.  
 
  ### Uninstallation ###
  If you backed up your "GameData" folder, just delete the GameData folder currently in .../steam/steamapps/common/Kerbal Space Program, and replace it with the backed-up copy.  
