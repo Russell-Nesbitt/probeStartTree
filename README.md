@@ -28,7 +28,7 @@ Begins with the Stayputnik and the Thermometer unlocked, plus the Communotron 16
 
 Better probe cores are unlocked by progressing along the "Stability"->"Flight Control" branch, which continues into the "Unmanned Tech" branch (moved appropriately).  
 
-The higher-tier communication antennas have been shifted down a tier into the "Electrics" Branch.  
+Post HG-5 communication antennas have all been shifted down a tier respectfully. 
 
 The "Automation" Node is empty and has been retained for compatability with mods that may add tech to that node.  
   
