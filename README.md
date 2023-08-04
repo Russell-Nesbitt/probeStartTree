@@ -29,11 +29,11 @@ Better probe cores are unlocked by progressing along the "Stability"->"Flight Co
 
 Post HG-5 communication antennas have all been shifted down a tier respectfully. 
 
-The "Automation" Node is empty and has been retained for compatability with mods that may add tech to that node.  
+The "Automation" Node is empty and has been retained for compatibility with mods that may add tech to that node.  
   
 Manned Pods are not unlocked until tier 4, with the "Basic Command Pod" node.  
 
-Manned pod progression begins with the KV-1, and splits into the "Heavy" line, which continues with the KV-series, and the "Advanced" line, which contains the rest. Note that the KV-pods unlock a tier before their Advanced equivalent in terms of crew capacity, but come with no proper parachutes.  
+Manned pod progression begins with the KV-1, and splits into the "Heavy" line, which continues with the KV-series, and the "Advanced" line, which contains the rest. Note that the KV-series pods unlock a tier before their Advanced equivalent in terms of crew capacity, but come with no proper parachutes.  
   
 The two branches converge to unlock the MK1-3 and the more advanced lander command pods. Therefore, the player can decide which branch they wish to follow.  
   
