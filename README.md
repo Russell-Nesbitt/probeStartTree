@@ -12,7 +12,7 @@ Progression should be roughly as challenging as the vanilla game, so your prefer
  ### Incompatibilies (Subject to Change) ###
 This mod is currently incompatible with any mod that changes the tech tree structure in any way, or that modifies any of the same Part config files that this mod edits.  
 It is also incompatible with any mod that changes the dictionary.cfg file in any way, though this should be resolved at some point.  
-It should be fully compatible with any mod that adds new parts to any of the vanilla tech tree nodes, though said nodes may be present at different locations in the tech       tree due to progression changes made by this mod.  
+It should be fully compatible with any mod that adds new parts to any of the vanilla tech tree nodes, though said nodes may be present at different locations in the tech tree due to progression changes made by this mod.  
 
  ### Installation ###
 All DLC is required for this mod to function.  
@@ -52,7 +52,7 @@ The LT-05 Micro Landing Struts have been moved up into "Space Exploration" and u
 
  ### Uninstallation ###
  If you backed up your "GameData" folder, just delete the GameData folder currently in .../steam/steamapps/common/Kerbal Space Program, and replace it with the backed-up copy.  
- If you did not back up your "GameData" folder, you'll have to reinstall all edited KSP files through Steam's "Verify Integrity of Game Files" option. NOTE THAT THIS WILL RESTORE EVERY EDITED KSP FILE TO ITS VANILLA STATE! BACK UP ANY OTHER INSTALLED KSP MODS FIRST!  
+ If you did not back up your "GameData" folder, you'll have to reinstall all edited KSP files through Steam's "Verify Integrity of Game Files" ability. NOTE THAT THIS WILL RESTORE EVERY EDITED KSP FILE TO ITS VANILLA STATE! BACK UP ANY OTHER INSTALLED KSP MODS FIRST!  
 
  ### Planned Features ###
 Resolve the dependency on the dictionary config file to increase compatibility with other mods.  
