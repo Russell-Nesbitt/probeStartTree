@@ -57,7 +57,7 @@ All three submods will provide the same modified tech tree.
 
 The first submod will be installed identically to the current version, via directly overwriting files in the GameData folder. This is intended to be the simplest and easiest way to get started, but is the most difficult to uninstall and would have a high risk of mod incompatibility issues.  
 
-The second submod will be integrated with Module Manager, for compatability with other mods that might make changes to existing parts or add new nodes to the tech tree.  
+The second submod will be integrated with Module Manager, for compatibility with other mods that might make changes to existing parts or add new nodes to the tech tree.  
 
 The possible third mod will port this tech tree structure into a Community Tech Tree plugin, for maximum compatibility with other tech tree mods. However, the main goal of this mod is to provide an experience very similar to vanilla KSP, which may make a truly successful transition impossible.
 
