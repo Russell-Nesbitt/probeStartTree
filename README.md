@@ -20,8 +20,8 @@ All DLC is required for this mod to function.
 Download the "probeStartTree" folder from this page.  
 Drag and drop the "GameData" folder contained within into .../steam/steamapps/common/Kerbal Space Program  
 Merge all folders when prompted.  
-  If a "Could not find this item" error occurs for the "SharedAssets" folder, click "Skip".  
 Overwrite all files when prompted.  
+Done!  
 
  ### Major Changes (Not Exhaustive or Finalized) ###
 Begins with the Stayputnik and the Thermometer unlocked, plus the Communotron 16-S and Z-100 Battery Pack for data transmission.  
