@@ -12,7 +12,7 @@ Progression should be roughly as challenging as the vanilla game, so your prefer
  ### Incompatibilies (Subject to Change) ###
 This mod is currently incompatible with any mod that changes the tech tree structure in any way, or that modifies any of the same Part config files that this mod edits.  
 It is also incompatible with any mod that changes the dictionary.cfg file in any way, though this should be resolved at some point.  
-It should be fully compatible with any mod that adds new parts to any of the vanilla tech tree nodes, though said nodes may be present at different locations in the tech tree due to progression changes made by this mod.  
+It should be fully compatible with any mod that adds new parts to any of the vanilla tech tree nodes, though said nodes may be present at different locations in the tech tree due to progression changes made by this mod. The hidden-in-vanilla "Nanolathing" and "Experimental Motors" nodes have been integrated into the tree for this reason, and are currently empty.    
 
  ### Installation ###
 All DLC is required for this mod to function.  
