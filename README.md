@@ -3,8 +3,7 @@ An unmanned start tech tree mod, inspired by theonegalen's "Unkerballed Start" a
 
 ![Tree](https://github.com/Russell-Nesbitt/probeStartTree/assets/96993918/0b78c037-eee6-479e-a26f-7b6329809bf9)
 
-This mod was made out of a desire to provide an unmanned start that changed as little as possible in the rest of the tech tree.  
-For example, instead of starting with the .625m engines, as in "Unkerballed Start", this tree begins with the standard 1.5m engines, providing structural adapters as needed.  
+This mod was made out of a desire to provide an unmanned start focused tech tree that was otherwise as similar as possible to the vanilla tree.   
 
 All vanilla tech tree nodes have been retained, though several have been moved into more appropriate places in the tree.  
 
