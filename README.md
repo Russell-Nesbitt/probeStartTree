@@ -7,7 +7,7 @@ This mod is intended to provide an unmanned start that would otherwise feel as f
 
 All vanilla tech tree nodes have been retained, though several have been moved into more appropriate places in the tree.  
 
-Progression should be roughly as challenging as the vanilla game, so your preferred difficulty settings should still apply.  
+Progression should be roughly as challenging as the vanilla game, so your preferred difficulty settings should still apply.
 Keep in mind that Crew/EVA reports will not be available from the start, so Science income will be slightly lower in the early game.  
 
  ### Incompatibilies (Subject to Change) ###
