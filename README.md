@@ -9,10 +9,10 @@ All vanilla tech tree nodes have been retained, though several have been moved i
 
 Progression should be roughly as challenging as the vanilla game, so your preferred difficulty settings should still apply.  
 
- ### Incompatabilies (Subject to Change, see Planned Features below) ###
-This mod is currently incompatable with any mod that changes the tech tree structure in any way, or that modifies any of the same Part config files that this mod edits.  
-It is also incompatable with any mod that changes the dictionary.cfg file in any way, though this should be resolved at some point.  
-It should be fully compatable with any mod that adds new parts to any of the vanilla tech tree nodes, though said nodes may be present at different locations in the tech       tree due to progression changes made by this mod.  
+ ### Incompatibilies (Subject to Change, see Planned Features) ###
+This mod is currently incompatible with any mod that changes the tech tree structure in any way, or that modifies any of the same Part config files that this mod edits.  
+It is also incompatible with any mod that changes the dictionary.cfg file in any way, though this should be resolved at some point.  
+It should be fully compatible with any mod that adds new parts to any of the vanilla tech tree nodes, though said nodes may be present at different locations in the tech       tree due to progression changes made by this mod.  
 
  ### Installation ###
 All DLC is required for this mod to function.  
@@ -47,16 +47,19 @@ The "Landing" branch has been shifted up a tier, mostly to open up more internal
 The LT-05 Micro Landing Struts have been moved up into "Space Exploration" and unlock at the same time as the basic Rovemax rover wheels and the Rovemate probe core.  
 
  ### Planned Features ###
-Resolve the dependency on the dictionary config file to increase compatability with other mods.  
+Resolve the dependency on the dictionary config file to increase compatibility with other mods.  
 Add custom thumbnails for all new tech tree nodes.  
 Finalize the basic structure of the tech tree, and adjust part purchase costs if required for balance.  
 
  ### Long Term Plans  ###
 Once the basic structure of the tech tree is finalized, this mod will be split into two (and possibly three) mods.  
-All three submods will have the same functionality.  
-The first submod will be installed identically to the current version, via directly overwriting files in the GameData folder. This is intended to be the simplest and easiest way to get started, but is the most difficult to uninstall and would have a high risk of mod incompatability issues.  
+All three submods will provide the same modified tech tree.  
+
+The first submod will be installed identically to the current version, via directly overwriting files in the GameData folder. This is intended to be the simplest and easiest way to get started, but is the most difficult to uninstall and would have a high risk of mod incompatibility issues.  
+
 The second submod will be integrated with Module Manager, for compatability with other mods that might make changes to existing parts or add new nodes to the tech tree.  
-The possible third mod will port this tech tree structure into a Community Tech Tree plugin, for maximum compatability with other mods editing the tech tree.  
+
+The possible third mod will port this tech tree structure into a Community Tech Tree plugin, for maximum compatibility with other tech tree mods. However, the main goal of this mod is to provide an experience very similar to vanilla KSP, which may make a truly successful transition impossible.
 
 
 
