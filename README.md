@@ -34,7 +34,7 @@ Better probe cores are unlocked by progressing along the "Stability"->"Flight Co
 
 Post HG-5 communication antennas have all been shifted down a tier respectfully. 
 
-The "Automation" Node is empty and has been retained for compatibility with mods that may add tech to that node.  
+The "Automation" Node is empty and has been retained for compatibility with mods that may add tech to that node. It has also been moved up a tier to provide space.    
 Similarly, the hidden "Nanolathing" and "Experimental Motors" nodes have been made visible and integrated into the tree.
   
 Manned Pods are not unlocked until tier 4, with the "Basic Command Pod" node.  
