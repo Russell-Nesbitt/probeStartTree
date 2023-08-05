@@ -33,6 +33,8 @@ Begins with the Stayputnik and the Thermometer unlocked, plus the Communotron 16
 
 Better probe cores are unlocked by progressing along the "Stability"->"Flight Control" branch, which continues into the "Unmanned Tech" branch (moved appropriately).  
 
+Basic Linear RCS thrusters and tanks unlock a tier earlier, at "Stability". More advanced RCS thrusters unlock later down the "Stability" branch.  
+
 Post HG-5 communication antennas have all been shifted down a tier respectfully. 
 
 The "Automation" Node is empty and has been retained for compatibility with mods that add tech to that node.  
