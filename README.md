@@ -48,6 +48,8 @@ The two branches converge to unlock the MK1-3 and the higher-capacity lander com
   
 It is intended that Kerbals EVA out of the KV-series pods in the lower atmosphere (like in the real-world early Vostok missions) and land using their personal parachutes. 
 In Career Mode, this requires upgrading the Astronaut Complex, so keep this in mind.    
+
+Rescue mission contracts won't be offered until after the "Advanced Command Pods" node is unlocked, as otherwise kerbals requiring rescue won't carry EVA packs.  
   
 Drogue Parachutes are unlocked through the "Survivability" and "Landing" nodes, with standard parachutes unlocked only through the manned pods branch.  
 
