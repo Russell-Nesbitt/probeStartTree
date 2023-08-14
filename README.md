@@ -50,6 +50,7 @@ It is intended that Kerbals EVA out of the KV-series pods in the lower atmospher
 In Career Mode, this requires upgrading the Astronaut Complex, so keep this in mind.    
 
 Rescue mission contracts won't be offered until after the "Advanced Command Pods" node is unlocked, as otherwise kerbals requiring rescue won't carry EVA packs.  
+Tourism contracts won't be offered until the "General Construction" node is unlocked, as otherwise the tourists will have a long wait until manned-rated spacecraft parts become available.  
   
 Drogue Parachutes are unlocked through the "Survivability" and "Landing" nodes, with standard parachutes unlocked only through the manned pods branch.  
 
